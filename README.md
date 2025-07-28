@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧹 Nettoyeur de fichiers BOM Excel
 
 Interface web simple pour nettoyer les fichiers Excel BOM en supprimant les caractères spéciaux des Part Numbers.
@@ -36,3 +37,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+=======
+# TestYazaki
+>>>>>>> 235f05ae632171bde91d6d9d073d7786128a5955
